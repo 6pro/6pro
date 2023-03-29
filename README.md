@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-🔭 I’m currently working on: I'm currently working on a personal project where I'm building a web application using Flask and React that allows users to create and share music playlists. I'm also improving my data analysis and visualization skills using Python and SQL.<br>
-🤝 I’m looking for help with: I'm looking for help with learning more about machine learning and artificial intelligence. I'm also seeking mentorship and advice on how to develop my career as a computer engineer.<br>
-🌱 I’m currently learning: I'm currently learning how to use TensorFlow and Keras for building neural networks. I'm also learning more about cloud computing and how to deploy web applications using services like Google Cloud Platform and Amazon Web Services.<br>
-💬 Ask me about: You can ask me about my experience working on the project mentoring program at K2I Academy, where I designed and delivered lessons on 3D modelling and computational thinking using Arduino and MicroPython. I can also discuss my experience as a Front End Developer where I worked on improving UI/UX using Figma, WordPress, HTML5 and CSS.<br>
+🔭 I’m currently working on a personal project where I'm building a web application using Flask and React that allows users to create and share music playlists. I'm also improving my data analysis and visualization skills using Python and SQL.<br>
+🤝 I’m looking for with learning more about machine learning and artificial intelligence. I'm also seeking mentorship and advice on how to develop my career as a computer engineer.<br>
+🌱 I’m currently learning how to use TensorFlow and Keras for building neural networks. I'm also learning more about cloud computing and how to deploy web applications using services like Google Cloud Platform and Amazon Web Services.<br>
+💬 Ask me about my experience working on the project mentoring program at K2I Academy, where I designed and delivered lessons on 3D modelling and computational thinking using Arduino and MicroPython. I can also discuss my experience as a Front End Developer where I worked on improving UI/UX using Figma, WordPress, HTML5 and CSS.<br>
 ⚡ Fun fact: Outside of my academic pursuits, I'm a big fan of playing and watching basketball. I'm also an amateur photographer and enjoy exploring new places to take photos.
 
 
